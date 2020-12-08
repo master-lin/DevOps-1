@@ -212,8 +212,3 @@
 3. [IT运维面试问题总结-运维工具、开源应用(Ceph、Docker、Apache、Nginx等)](https://github.com/master-lin/DevOps-1/blob/master/interview/IT%E8%BF%90%E7%BB%B4%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93-%E8%BF%90%E7%BB%B4%E5%B7%A5%E5%85%B7-%E5%BC%80%E6%BA%90%E5%BA%94%E7%94%A8ceph-docker-apache-nginx%E7%AD%89.md)
 4. [IT运维面试问题总结-数据库、监控、网络管理](https://github.com/master-lin/DevOps-1/blob/master/interview/IT%E8%BF%90%E7%BB%B4%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93-%E6%95%B0%E6%8D%AE%E5%BA%93-%E7%9B%91%E6%8E%A7-%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86.md)
 5. [IT运维面试问题总结-简述Etcd、Kubernetes、Lvs、HAProxy等](https://github.com/master-lin/DevOps-1/blob/master/interview/IT%E8%BF%90%E7%BB%B4%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93-%E7%AE%80%E8%BF%B0etcd-kubernetes-lvs-haproxy.md)
-
-## 公众号
-欢迎大家关注微信公众号**YP小站**，我会定期分享本人家乡美食、自动化运维、DevOps、Kubernetes、Service Mesh和Cloud Native相关文章，欢迎大家关注交流，如果有机会也可以去我家乡湖南游玩。
-
-![YP小站](./img/yp_wx.png)
